@@ -1,4 +1,4 @@
-DanielGriffin
+Daniel Griffin
 👋 Hi, I'm Daniel!
 🎯 Professional DevOps Engineer specializing in production-grade infrastructure automation, edge computing reliability patterns, and scalable cloud systems.
 🚀 Featured Projects
